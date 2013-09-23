@@ -23,7 +23,7 @@ try:
 except ImportError:
     import simplejson as json
 
-__appKey__ = 2219432852 # sina appkey
+__appKey__ = xxxxxxx # sina appkey
 
 __keyWordNum__ = 40
 
